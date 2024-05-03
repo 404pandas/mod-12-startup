@@ -25,29 +25,29 @@ function loadMainPrompts() {
 // TODO- Create a function to View all employees
 function viewEmployees() {}
 
-// TODO- Create a function to View all employees that belong to a department
+// BONUS- Create a function to View all employees that belong to a department
 
-// TODO- Create a function to View all employees that report to a specific manager
+// BONUS- Create a function to View all employees that report to a specific manager
 
-// TODO- Create a function to Delete an employee
+// BONUS- Create a function to Delete an employee
 
 // TODO- Create a function to Update an employee's role
 
-// TODO- Create a function to pdate an employee's manager
+// BONUS- Create a function to Update an employee's manager
 
 // TODO- Create a function to View all roles
 
 // TODO- Create a function to Add a role
 
-// TODO- Create a function to Delete a role
+// BONUS- Create a function to Delete a role
 
 // TODO- Create a function to View all deparments
 
 // TODO- Create a function to Add a department
 
-// TODO- Create a function to Delete a department
+// BONUS- Create a function to Delete a department
 
-// TODO- Create a function to View all departments and show their total utilized department budget
+// BONUS- Create a function to View all departments and show their total utilized department budget
 
 // TODO- Create a function to Add an employee
 
